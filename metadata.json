@@ -1,0 +1,7 @@
+{
+  "name": "Transcript Studio AI",
+  "description": "An advanced AI-powered audio processing suite. Transcribe recordings or audio files in multiple languages, edit the raw text, and then instantly format it into various professional styles—from journalistic articles and academic papers to detailed, time-coded logs. Your complete solution for turning speech into structured, publication-ready documents.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
