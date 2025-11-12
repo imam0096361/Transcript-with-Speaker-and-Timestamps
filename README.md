@@ -10,7 +10,7 @@ Transform audio recordings into publication-ready documents with industry-leadin
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Node.js 18+](https://img.shields.io/badge/node-18+-green.svg)](https://nodejs.org/)
 
-View original app in AI Studio: https://ai.studio/apps/drive/11QIkoPoL5VhlO30DMHbxTfcwb2p0smST
+
 
 ---
 
