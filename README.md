@@ -426,4 +426,15 @@ Potential future additions:
 
 ⭐ Star this repo if it helped you achieve accurate transcription!
 
+---
+
+### 👨‍💻 Developed By
+
+**Imam Chowdhury**
+
+[![GitHub](https://img.shields.io/badge/GitHub-imam0096361-181717?style=for-the-badge&logo=github)](https://github.com/imam0096361)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00A98F?style=for-the-badge&logo=google-chrome)](https://github.com/imam0096361)
+
+*Enhanced Edition with AI-powered accuracy improvements*
+
 </div>

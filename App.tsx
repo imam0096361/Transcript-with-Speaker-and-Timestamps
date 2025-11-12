@@ -1057,6 +1057,45 @@ export default function App() {
                     />
                 </div>
               </main>
+
+              {/* Developer Footer */}
+              <footer style={{
+                marginTop: '3rem',
+                paddingTop: '2rem',
+                paddingBottom: '1rem',
+                borderTop: '1px solid rgba(59, 130, 246, 0.2)',
+                textAlign: 'center',
+                opacity: 0.8
+              }}>
+                <p style={{
+                  fontSize: '0.875rem',
+                  color: '#94a3b8',
+                  marginBottom: '0.5rem'
+                }}>
+                  Developed with ❤️ by{' '}
+                  <a
+                    href="https://github.com/imam0096361"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    style={{
+                      color: '#3b82f6',
+                      textDecoration: 'none',
+                      fontWeight: 600,
+                      transition: 'color 0.2s'
+                    }}
+                    onMouseEnter={(e) => e.currentTarget.style.color = '#60a5fa'}
+                    onMouseLeave={(e) => e.currentTarget.style.color = '#3b82f6'}
+                  >
+                    Imam Chowdhury
+                  </a>
+                </p>
+                <p style={{
+                  fontSize: '0.75rem',
+                  color: '#64748b'
+                }}>
+                  Enhanced Edition • Powered by Google Gemini, WhisperX & Pyannote
+                </p>
+              </footer>
             </>
           )}
         </div>
